@@ -527,7 +527,7 @@ html{
     width:80%;
     text-align:center;
     margin:0 auto;
-    margin-top:400px;
+    margin-top:200px;
 }
 
 .heading h1{
@@ -857,13 +857,13 @@ html{
 }
 
 .user-detail{
-    width:100%;
+   width:100%;
    flex-wrap: wrap;
    text-align:center;
 }
 
 .user-detail .name{
-   
+    width:100%;
     margin:0 auto;
     margin-top:50px;
 }
